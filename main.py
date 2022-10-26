@@ -1,6 +1,4 @@
-# print() = comando de saida #
-print("Hello World")
-# quando quero guardar uma frase#
-nome = "Caique Silva"
-idade = 27
-print(nome,idade)
+# comando input(): quero que o usuário digite algo
+nome = input("Digite seu nome: ")
+#exibe o conteúdo da variavel nome na tela
+print(nome)
